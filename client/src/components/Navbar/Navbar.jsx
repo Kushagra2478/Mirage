@@ -1,14 +1,14 @@
 import React from 'react'
-
 const Navbar = () => {
   return (
-    <nav>
-      <ul style={{display:'flex',gap:'10px'}}>
-        <li>lotrem</li>
-        <li>lotrem</li>
-
-        <li>lotrem</li>
-        <li>lotrem</li>
+    <nav  >
+      <p>SPEEDTEST</p>
+      <ul>
+       
+        <li>APPS</li>
+        <li>NETWORK</li>
+        <li>VPN</li>
+        <li>ABOUT</li>
 
       </ul>
     </nav>
